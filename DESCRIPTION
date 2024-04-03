@@ -6,7 +6,7 @@ Authors@R:
       "Alexandr", "Provozin",
       email = "internet64@yandex.ru",
       role = c("aut", "cre"))
-Description: Loading statistics from the Wildberries API https://openapi.wb.ru/general/description/ru/ into R.
+Description: Loading statistics and analytics from the Wildberries API https://openapi.wb.ru/general/description/ru/ into R.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
